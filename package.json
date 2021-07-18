@@ -1,0 +1,32 @@
+{
+  "name": "backend-coodesh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "dependencies": {
+    "ajv": "^8.6.2",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonschema": "^1.4.0",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.12",
+    "@types/dotenv": "^8.2.0",
+    "@types/express": "^4.17.8",
+    "@types/node": "^14.14.5",
+    "knex": "^0.95.6",
+    "ts-node-dev": "^1.0.0",
+    "typescript": "^4.0.5"
+  },
+  "scripts": {
+    "dev": "ts-node-dev --inspect --ignore-watch node_modules src/server.ts",
+    "build": "tsc",
+    "deploy": "node dist/src/server.js"
+  },
+  "keywords": [],
+  "author": "Amadeu Junior",
+  "email": "amadeujunior00@gmail.com",
+  "license": "ISC"
+}

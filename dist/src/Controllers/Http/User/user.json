@@ -1,0 +1,122 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Leila",
+                "last": "Rocha"
+            },
+            "location": {
+                "street": {
+                    "number": 2228,
+                    "name": "Rua Vinte E Dois "
+                },
+                "city": "Franca",
+                "state": "Santa Catarina",
+                "country": "Brazil",
+                "postcode": 87638,
+                "coordinates": {
+                    "latitude": "83.4520",
+                    "longitude": "146.6334"
+                },
+                "timezone": {
+                    "offset": "-6:00",
+                    "description": "Central Time (US & Canada), Mexico City"
+                }
+            },
+            "email": "leila.rocha@example.com",
+            "login": {
+                "uuid": "8db33e5e-df40-42ac-a352-ad11b77d957e",
+                "username": "blackmouse871",
+                "password": "enternow",
+                "salt": "7rcjOWAp",
+                "md5": "c2f399aa36f652e94798f7ca8b256f75",
+                "sha1": "dfe700fa085b52c2851c2b0a48631cd112d4b026",
+                "sha256": "f62586b9941867045d1566c84b8ad1267330331ca0448e302aaaf5ef09865540"
+            },
+            "dob": {
+                "date": "1951-01-24T22:26:53.834Z",
+                "age": 69
+            },
+            "registered": {
+                "date": "2004-02-22T22:24:28.185Z",
+                "age": 16
+            },
+            "phone": "(44) 8534-8999",
+            "cell": "(41) 3961-9010",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/70.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/70.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/70.jpg"
+            },
+            "nat": "BR"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Getúlio",
+                "last": "das Neves"
+            },
+            "location": {
+                "street": {
+                    "number": 4754,
+                    "name": "Rua Das Flores "
+                },
+                "city": "Paulo Afonso",
+                "state": "Ceará",
+                "country": "Brazil",
+                "postcode": 72198,
+                "coordinates": {
+                    "latitude": "88.1796",
+                    "longitude": "145.5563"
+                },
+                "timezone": {
+                    "offset": "+10:00",
+                    "description": "Eastern Australia, Guam, Vladivostok"
+                }
+            },
+            "email": "getulio.dasneves@example.com",
+            "login": {
+                "uuid": "f626fa2e-0110-4765-a73a-3be00016f46d",
+                "username": "ticklishsnake770",
+                "password": "funny",
+                "salt": "4cbcgy7p",
+                "md5": "4069da1db628c06a82ea991a4cd777ff",
+                "sha1": "d45b40fba428e23a5c8820ded46851459d5382ae",
+                "sha256": "9b80d047942a15fd56e6fb34a613369f94f52ddd6042c719fedf509f02a52699"
+            },
+            "dob": {
+                "date": "1968-07-26T16:48:22.925Z",
+                "age": 52
+            },
+            "registered": {
+                "date": "2010-01-25T22:40:05.552Z",
+                "age": 10
+            },
+            "phone": "(47) 1064-0546",
+            "cell": "(52) 9646-1385",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/53.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/53.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/53.jpg"
+            },
+            "nat": "BR"
+        }
+    ],
+    "info": {
+        "seed": "8d7ea4d72b94896d",
+        "results": 500,
+        "page": 1,
+        "version": "1.3"
+    }
+}
