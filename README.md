@@ -19,7 +19,7 @@ Atenção:
 
 Clonar do repositório:
 
-    git clone git@github.com/amadeujunior1102/desafio-coodesh/backend-coodesh.git
+    git clone git@github.com/amadeujunior1102/desafio-coodesh/desafio-coodesh-api.git
 
 ## Development
     yarn dev
